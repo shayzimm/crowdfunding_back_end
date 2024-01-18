@@ -1,2 +1,16 @@
-# crowdfunding_back_end
-She Codes Plus - 2023-2024 Cohort - DRF - crowdfunding_back_end
+# Crowdfunding Back End
+Shay Zimmerle
+
+## Planning:
+### Concept/Name
+Crowdfunding for research/science
+Name ideas: SciFi, Experimentum, SciStarter
+
+### Intended Audience/User Stories
+Scientists, research groups, citizen scientists, anyone who wants to be directly involved with funding research
+
+### Front End Pages/Functionality
+
+### API Spec
+
+### DB Schema
