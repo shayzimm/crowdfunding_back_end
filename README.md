@@ -12,5 +12,6 @@ Scientists, research groups, citizen scientists, anyone who wants to be directly
 ### Front End Pages/Functionality
 
 ### API Spec
+| URL | HTTP Method | Purpose | Request Body | Success Response Code | Authentication/Authorization |
 
 ### DB Schema
